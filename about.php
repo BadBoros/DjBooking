@@ -7,7 +7,7 @@ include('includes/dbconnection.php');
 <!DOCTYPE html>
 <html>
 <head>
-<title>Online DJ Management System || About Us</title>
+<title>DjBooking || About Us</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
